@@ -5,32 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05f7dc02-3526-4a0c-992b-11f263c1dbdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../02-Payment-App/src/CreditCardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-Payment-App/src/DebitCardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-Payment-App/src/IPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-Payment-App/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-Payment-App/src/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/beans/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/beans/DieselEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/beans/IEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/beans/PetrolEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/Car-App.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/src/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/src/DieselEng.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/src/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Car-App/src/PetrolEng.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/DebitCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/IPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/beans/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/beans/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +41,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="36hm7c2UhLsDeoJ0MGqTn736YT1" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,31 +52,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Test.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Test" />
@@ -119,7 +112,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765467011282</updated>
-      <workItem from="1765467013657" duration="6187000" />
+      <workItem from="1765467013657" duration="8794000" />
+      <workItem from="1765515082960" duration="609000" />
+      <workItem from="1765518345507" duration="715000" />
     </task>
     <servers />
   </component>
