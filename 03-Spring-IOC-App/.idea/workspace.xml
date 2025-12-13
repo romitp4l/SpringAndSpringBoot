@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05f7dc02-3526-4a0c-992b-11f263c1dbdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/CreditCardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/DebitCardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/IPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/java/org/example/beans/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-IOC-App/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/beans/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/beans/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +97,8 @@
       <workItem from="1765467013657" duration="8794000" />
       <workItem from="1765515082960" duration="609000" />
       <workItem from="1765518345507" duration="715000" />
+      <workItem from="1765521302789" duration="28000" />
+      <workItem from="1765529072083" duration="623000" />
     </task>
     <servers />
   </component>
