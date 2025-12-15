@@ -1,0 +1,21 @@
+Case 1: Introducing a local variable (Alt + Enter)
+
+example:
+
+Arrays.asList(1,2,3);
+on shortcut
+
+List<Integer> li = Arrays.asList(1,2,3);
+
+Case 2: Duplicating the line (Ctrl + D)
+
+Case 3: Searching anything in the whole application (Ctrl + Shift + F)
+
+Case 4: Searching for any command for shortcuts (Ctrl + Shift + A)
+
+Case 5: Proper indentation (Ctrl + Alt + L)
+
+Case 6: Sorround any piece of code (Ctrl + Alt + T)
+
+
+
