@@ -16,8 +16,11 @@ public class Application {
         Car bean = context.getBean(Car.class);
         bean.drive();
 
-//        Motor beanMotor = context.getBean(Motor.class);
+        Motor beanMotor = context.getBean(Motor.class);
 
+        System.out.println(beanMotor.hashCode());
+
+        
         context.close();
     }
 
