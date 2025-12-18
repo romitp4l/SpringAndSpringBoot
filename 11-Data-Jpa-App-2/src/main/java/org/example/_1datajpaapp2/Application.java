@@ -29,7 +29,9 @@ public class Application {
 //        service.saveMultipleEmployee();
 //        service.getEmp();
 //        service.getEmps();
-        service.getAllEmps();
+//        service.getAllEmps();
+
+        service.getEmpByDept("IT");
 
     }
 

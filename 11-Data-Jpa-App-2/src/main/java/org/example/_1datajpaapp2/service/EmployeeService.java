@@ -79,5 +79,10 @@ public class EmployeeService {
         findAll.forEach(System.out::println);
     }
 
+    public void getEmpByDept(String empDept){
+        List<Employee> employees = employeeRepo.findByEmpDept(empDept);
+        employees.forEach(System.out::println);
+    }
+
 
 }
