@@ -31,8 +31,25 @@ public class Application {
 //        service.getEmps();
 //        service.getAllEmps();
 
-        service.getEmpByDept("IT");
+//        service.getEmpByDept("IT");
+
+//        service.getByEmpDepartmentUsingQuery("CSE ");
+//
+//        service.getAllBySql();
+//
+//
+//        service.getDeleteEmp(206);
+//
+
+//
+//        service.getEmps();
+
+//        service.getEmpsWithPagination(2,2);
+
+        // QBE
+        service.getEmpsByQBE();
 
     }
+
 
 }
